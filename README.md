@@ -32,7 +32,7 @@ Currently, I am expanding my expertise into **Data Engineering**, focusing on ba
 ### 🏆 Certifications
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0a3dfe21-3c66-4e46-8c4c-0999218a1838" width="50" height="50" alt="Certification 1" />
+  <img src="https://github.com/user-attachments/assets/0a3dfe21-3c66-4e46-8c4c-0999218a1838" width="80" height="80" alt="Certification 1" />
   &nbsp;
   <img src="https://github.com/user-attachments/assets/c53617c7-be8a-4941-aa9a-b9c46a639ea5" width="50" height="50" alt="Alteryx Designer Core" />
   &nbsp;
