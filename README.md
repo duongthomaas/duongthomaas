@@ -1,18 +1,5 @@
 <div align="center">
-  <img src="https://www.thedataschool.co.uk/content/images/size/w300/2024/02/Thomas-Duong-Circle.png" alt="Thomas Duong" width="150"/>
-  <h1>Thomas QL Duong</h1>
-  <h3>Data Consultant | The Information Lab</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/thomas-ql-duong/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://public.tableau.com/app/profile/thomas.duong">
-      <img src="https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/>
-    </a>
-    <a href="https://github.com/thomas-duong">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </p>
+  ![SQ_Thomas_3fa01feb56](https://github.com/user-attachments/assets/f038fc64-504d-492a-859e-2cc4e02c91dc)
 </div>
 
 ---
@@ -44,21 +31,10 @@ Currently, I am expanding my expertise into **Data Engineering**, focusing on ba
 
 ### 🏆 Certifications
 
-| | | |
-|:---:|:---:|:---:|
-| <img src="https://images.credly.com/images/154189d2-b364-4e44-934c-6878b3152648/Alteryx_Designer_Core_Certified.png" width="100" /> | <img src="https://images.credly.com/images/64016752-0696-4da4-98ae-3cf0e6b5d909/Alteryx_Designer_Advanced_Certified.png" width="100" /> | <img src="https://images.credly.com/images/9c53e87d-8697-4081-862d-0809b456170d/Tableau-Certified-Data-Analyst_Badge.png" width="100" /> |
-| **Alteryx Designer Core** | **Alteryx Designer Advanced** | **Tableau Certified Data Analyst** |
-| <img src="https://images.credly.com/images/4207865c-619f-4318-97e3-0c4e727bc529/dbt-fundamentals-badge.png" width="100" /> | | |
-| **dbt Fundamentals** | | |
+<img width="602" height="602" alt="image" src="https://github.com/user-attachments/assets/0a3dfe21-3c66-4e46-8c4c-0999218a1838" /> <img width="600" height="600" alt="Certification_Designer_Core" src="https://github.com/user-attachments/assets/c53617c7-be8a-4941-aa9a-b9c46a639ea5" /> <img width="600" height="600" alt="Certification_Designer_Advanced" src="https://github.com/user-attachments/assets/fff8fdd0-1acd-4369-b289-f653e6d6e94c" />
 
----
 
-### 📝 Recent Blog Posts
-* [What is dbt (Data Build Tool), and Why Does It Matter?](https://www.thedataschool.co.uk/blog/thomas-duong/)
-* [How to Build a Sunburst Chart in Tableau](https://www.thedataschool.co.uk/blog/thomas-duong/)
-* [Automating Laughter with Alteryx: Using the Email Tool](https://www.thedataschool.co.uk/blog/thomas-duong/)
-* [Dashboard Week: The Internet Boy Bands Database](https://www.thedataschool.co.uk/blog/thomas-duong/)
-* [Decoding U.S. Elections: Understanding Swing States](https://www.thedataschool.co.uk/blog/thomas-duong/)
+
 
 ---
 <div align="center">
