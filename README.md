@@ -1,5 +1,6 @@
 <div align="center">
-![SQ_Thomas_3fa01feb56](https://github.com/user-attachments/assets/e8715584-189c-4d68-a42b-4e5da9512ecc)
+![532942830-e8715584-189c-4d68-a42b-4e5da9512ecc](https://github.com/user-attachments/assets/68ae3841-9f4e-40b5-be7c-3d7560397c41)
+
 </div>
 
 ---
