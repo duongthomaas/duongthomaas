@@ -31,7 +31,8 @@ Currently, I am expanding my expertise into **Data Engineering**, focusing on ba
 
 ### 🏆 Certifications
 
-<img width="602" height="602" alt="image" src="https://github.com/user-attachments/assets/0a3dfe21-3c66-4e46-8c4c-0999218a1838" /> <img width="600" height="600" alt="Certification_Designer_Core" src="https://github.com/user-attachments/assets/c53617c7-be8a-4941-aa9a-b9c46a639ea5" /> <img width="600" height="600" alt="Certification_Designer_Advanced" src="https://github.com/user-attachments/assets/fff8fdd0-1acd-4369-b289-f653e6d6e94c" />
+<img width="602" height="602" alt="image" src="https://github.com/user-attachments/assets/0a3dfe21-3c66-4e46-8c4c-0999218a1838" /> <img width="600" height="600" alt="Certification_Designer_Core" src="https://github.com/user-attachments/assets/c53617c7-be8a-4941-aa9a-b9c46a639ea5" /> <img width="600" height="600" alt="Certification_Designer_Advanced" src="https://github.com/user-attachments/assets/fff8fdd0-1acd-4369-b289-f653e6d6e94c" /> <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e295e3a5-9067-4388-b856-c90a2c8e5bd6" /> ![microsoft-certified-associate-badge](https://github.com/user-attachments/assets/5858b4fe-5416-48d4-bd14-5bec031ebec0)
+
 
 
 
