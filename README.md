@@ -2,16 +2,16 @@
 
 ### 👋 About Me
 
-I am a **Data School Consultant** at The Information Lab with a background in **International Political Economy**. My journey into data began with R-based research on political behavior, and I have since transitioned into delivering enterprise-grade BI solutions.
+I am a **Data School Consultant** at The Information Lab UK with a background in **International Political Economy**. My journey into data began with R-based research on political behaviour in Western countries, and I have since transitioned into delivering enterprise-grade BI solutions.
 
-Currently, I am expanding my expertise into **Data Engineering**, focusing on backend processes, ETL/ELT pipelines, and modern data warehousing with **dbt**.
+Currently, I am expanding my expertise into **Data Engineering**, focusing on backend processes, ETL/ELT pipelines, and modern data warehousing such as **dbt**.
 
 * 🔭 **Current Focus:** Data Engineering, dbt, and Cloud Integration
 * 💼 **Experience:**
-    * **Defence Sector:** Developed Alteryx Apps for data validation/submission and built project management dashboards for a major European defence contractor.
+    * **Defence Sector:** Developed Alteryx Apps for data validation/submission and built project management dashboards for a major European defense contractor.
     * **Sports Analytics:** Created performance analysis dashboards for Premier League football clubs and cricket coaching staff.
-    * **Transport:** Analyzed passenger behavior during disruption events for rail networks.
-* 🎓 **Education:** Postgraduate studies in International Political Economy (Environmental Governance).
+    * **Transport:** Analysed passenger behaviour during disruption events for rail networks.
+* 🎓 **Education:** Postgraduate studies in International Political Economy (research focused on the Environmental Governance in post-Soviet countries).
 
 ---
 
