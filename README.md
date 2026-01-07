@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/3dbed229-d5b9-43ec-b939-d27b89665923" alt="School-TIL-Logo-01" style="width: 100%; height: 400px; object-fit: cover;">
+<img src="https://github.com/user-attachments/assets/3dbed229-d5b9-43ec-b939-d27b89665923" alt="School-TIL-Logo-01" style="width: 100%; height: 500px; object-fit: cover;">
 </div>
 
 ---
@@ -32,17 +32,17 @@ Currently, I am expanding my expertise into **Data Engineering**, focusing on ba
 ### 🏆 Certifications
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0a3dfe21-3c66-4e46-8c4c-0999218a1838" width="150" height="150" alt="Certification 1" />
+  <img src="https://github.com/user-attachments/assets/0a3dfe21-3c66-4e46-8c4c-0999218a1838" width="50" height="50" alt="Certification 1" />
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/c53617c7-be8a-4941-aa9a-b9c46a639ea5" width="150" height="150" alt="Alteryx Designer Core" />
+  <img src="https://github.com/user-attachments/assets/c53617c7-be8a-4941-aa9a-b9c46a639ea5" width="50" height="50" alt="Alteryx Designer Core" />
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/fff8fdd0-1acd-4369-b289-f653e6d6e94c" width="150" height="150" alt="Alteryx Designer Advanced" />
+  <img src="https://github.com/user-attachments/assets/fff8fdd0-1acd-4369-b289-f653e6d6e94c" width="50" height="50" alt="Alteryx Designer Advanced" />
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/e295e3a5-9067-4388-b856-c90a2c8e5bd6" width="150" height="150" alt="Certification 4" />
+  <img src="https://github.com/user-attachments/assets/e295e3a5-9067-4388-b856-c90a2c8e5bd6" width="50" height="50" alt="Certification 4" />
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/5858b4fe-5416-48d4-bd14-5bec031ebec0" width="150" height="150" alt="Microsoft Certified Associate" />
+  <img src="https://github.com/user-attachments/assets/5858b4fe-5416-48d4-bd14-5bec031ebec0" width="50" height="50" alt="Microsoft Certified Associate" />
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/7b59f120-c216-40ea-9509-b3e26bb92810" width="150" height="150" alt="Certification 6" />
+  <img src="https://github.com/user-attachments/assets/7b59f120-c216-40ea-9509-b3e26bb92810" width="50" height="50" alt="Certification 6" />
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/70f1a55c-c09b-4441-956d-f4d3cc50d520" width="150" height="150" alt="Certification 7" />
+  <img src="https://github.com/user-attachments/assets/70f1a55c-c09b-4441-956d-f4d3cc50d520" width="50" height="50" alt="Certification 7" />
 </div>
