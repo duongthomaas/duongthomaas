@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1240" height="1240" alt="School-TIL-Logo-01" src="https://github.com/user-attachments/assets/3dbed229-d5b9-43ec-b939-d27b89665923" />
+<img src="https://github.com/user-attachments/assets/3dbed229-d5b9-43ec-b939-d27b89665923" alt="School-TIL-Logo-01" style="width: 100%; height: 200px; object-fit: cover;">
 </div>
 
 ---
