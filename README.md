@@ -1,5 +1,5 @@
 <div align="center">
-![SQ_Thomas_3fa01feb56](https://github.com/user-attachments/assets/d0de2c19-94e4-44e6-b4ad-b6e4bc0f742d)
+<img width="1240" height="1240" alt="School-TIL-Logo-01" src="https://github.com/user-attachments/assets/3dbed229-d5b9-43ec-b939-d27b89665923" />
 </div>
 
 ---
