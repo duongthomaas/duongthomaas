@@ -1,3 +1,5 @@
+---
+
 ### 👋 About Me
 
 I am a **Data School Consultant** at The Information Lab with a background in **International Political Economy**. My journey into data began with R-based research on political behavior, and I have since transitioned into delivering enterprise-grade BI solutions.
