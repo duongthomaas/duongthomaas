@@ -1,13 +1,12 @@
 <div align="center">
-![532942830-e8715584-189c-4d68-a42b-4e5da9512ecc](https://github.com/user-attachments/assets/68ae3841-9f4e-40b5-be7c-3d7560397c41)
-
+![SQ_Thomas_3fa01feb56](https://github.com/user-attachments/assets/d0de2c19-94e4-44e6-b4ad-b6e4bc0f742d)
 </div>
 
 ---
 
 ### 👋 About Me
 
-I am a **Data School Consultant** at The Information Lab with a background in **International Political Economy** and **Quantitative Research**. My journey into data began with R-based research on political behavior, and I have since transitioned into delivering enterprise-grade BI solutions.
+I am a **Data School Consultant** at The Information Lab with a background in **International Political Economy**. My journey into data began with R-based research on political behavior, and I have since transitioned into delivering enterprise-grade BI solutions.
 
 Currently, I am expanding my expertise into **Data Engineering**, focusing on backend processes, ETL/ELT pipelines, and modern data warehousing with **dbt**.
 
@@ -26,7 +25,7 @@ Currently, I am expanding my expertise into **Data Engineering**, focusing on ba
 | :--- | :--- |
 | **Data Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
 | **Data Engineering & ETL** | ![Alteryx](https://img.shields.io/badge/Alteryx-005691?style=flat-square&logo=alteryx&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) |
-| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -46,14 +45,4 @@ Currently, I am expanding my expertise into **Data Engineering**, focusing on ba
   <img src="https://github.com/user-attachments/assets/7b59f120-c216-40ea-9509-b3e26bb92810" width="150" height="150" alt="Certification 6" />
   &nbsp;
   <img src="https://github.com/user-attachments/assets/70f1a55c-c09b-4441-956d-f4d3cc50d520" width="150" height="150" alt="Certification 7" />
-</div>
-
-
-
-
-
-
----
-<div align="center">
-  <i>Powered by <a href="https://www.thedataschool.co.uk/">The Data School</a></i>
 </div>
