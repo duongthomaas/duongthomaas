@@ -17,7 +17,7 @@ Training to become a data engineer.
 | Category | Tools |
 | :--- | :--- |
 | **Data Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
-| **Data Engineering & ETL** | ![Alteryx](https://img.shields.io/badge/Alteryx-005691?style=flat-square&logo=alteryx&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) |
+| **ETL & ELT** | ![Alteryx](https://img.shields.io/badge/Alteryx-005691?style=flat-square&logo=alteryx&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) |
 | **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
