@@ -2,7 +2,7 @@
 
 ### 👋 About Me
 
-Training to become a data engineer.
+In proccess of becoming a data engineer.
 
 * 💼 **Experience:**
     * **Defence Sector:** Developed Alteryx Apps for data validation/submission and built project management dashboards for a major European defence contractor.
