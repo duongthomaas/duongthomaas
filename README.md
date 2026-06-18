@@ -2,13 +2,14 @@
 
 ### 👋 About Me
 
-In proccess of becoming a data engineer.
+Working as Data Enginner at the Information Lab UK.
 
 * 💼 **Experience:**
     * **Defence Sector:** Developed Alteryx Apps for data validation/submission and built project management dashboards for a major European defence contractor.
     * **Sports Analytics:** Created performance analysis dashboards for Premier League football clubs and cricket coaching and S&C staff.
     * **Transport:** Analysed passenger behaviour during disruption events for rail networks.
 * 🎓 **Education:** Postgraduate studies in International Political Economy (research focused on the Environmental Governance in post-Soviet countries).
+* 🎵 **Hobbies:** Learning how to dj and code music
 
 ---
 
